@@ -108,7 +108,7 @@ The project includes a Splunk dashboard containing:
 ![Sysmon Service Running](screenshots/sysmon-service-running.png)
 
 ### Sysmon Events in Splunk
-![Sysmon Events in Splunk](screenshots/splunk-sysmon-events.png)
+![Sysmon Events in Splunk](screenshots/splunk-sysmon-events.jpg)
 
 ## MITRE ATT&CK
 
