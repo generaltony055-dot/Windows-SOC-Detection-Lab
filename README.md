@@ -110,6 +110,9 @@ The project includes a Splunk dashboard containing:
 ### Sysmon Events in Splunk
 ![Sysmon Events in Splunk](screenshots/splunk-sysmon-events.jpg)
 
+### PowerShell Detection in Splunk
+![Sysmon Events in Splunk](screenshots/powershell-detection.png)
+
 ## MITRE ATT&CK
 
 The project uses MITRE ATT&CK to provide context for observed behavior.
