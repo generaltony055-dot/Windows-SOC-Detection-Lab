@@ -10,19 +10,20 @@ The lab uses a Windows 11 endpoint as the monitored system and a Kali Linux VM f
 
 ## Architecture
 
-Windows 11
-│
+## Architecture
+
+```text
+Windows 11 Endpoint
 ├── Sysmon
 │   └── Endpoint telemetry
-│
 ├── Windows Security Logs
 │   └── Authentication and security events
-│
 └── Splunk Enterprise
     └── SIEM / Detection / Investigation
 
 Kali Linux VM
 └── Controlled security testing
+```
 
 ## Tools & Technologies
 
