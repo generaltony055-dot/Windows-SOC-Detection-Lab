@@ -99,6 +99,17 @@ The project includes a Splunk dashboard containing:
 - Windows Security Events
 - SOC Severity Summary
 
+## Evidence
+
+### Splunk SOC Dashboard
+![Splunk SOC Dashboard](screenshots/splunk-soc-dashboard.png)
+
+### Sysmon Service Running
+![Sysmon Service Running](screenshots/sysmon-service-running.png)
+
+### Sysmon Events in Splunk
+![Sysmon Events in Splunk](screenshots/splunk-sysmon-events.png)
+
 ## MITRE ATT&CK
 
 The project uses MITRE ATT&CK to provide context for observed behavior.
